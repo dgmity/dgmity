@@ -1,16 +1,29 @@
-### Hi there 👋
+# krytoivk
 
-<!--
-**krytoivk/krytoivk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой guthub
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![My Skills](https://skillicons.dev/icons?i=py,java,ps)
+
+[![Social](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/697495650970894356/ )
+
+[**Telegram channel**](https://t.me/krytoivk)
+## Обо мне
+
+- Основной язык программирования - `python`, также учу `java`.
+- Увлекаюсь разработкой `telegram` и `vk` ботов.
+- Занимаюсь кодингом на протяжении 2-х лет.
+
+## Мои проекты
+
+- [***delete_vk_friends***](https://github.com/krytoivk/delete_vk_friends): бот для удаления друзей Вконтакте
+
+## Статистика github
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=krytoivk&show_icons=true)
+
+## Статистика языков программирования
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krytoivk)
+
+
