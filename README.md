@@ -3,7 +3,7 @@
 Welcome to my GitHub.
 
 ### Languages & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgmity&layout=compact&theme=dark)](https://github.com/dgmity)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ)
 
 ---
 
